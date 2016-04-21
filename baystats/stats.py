@@ -68,6 +68,7 @@ def correlation(x, y, n_iter=5000, burn_in=2500, robust=False):
 
     References
     ----------
+    http://www.philippsinger.info/?p=581
     http://www.sumsar.net/blog/2013/08/bayesian-estimation-of-correlation/
     http://www.sumsar.net/blog/2013/08/robust-bayesian-estimation-of-correlation/
     http://bayesmodels.com/
